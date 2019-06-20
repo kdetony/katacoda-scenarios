@@ -8,6 +8,23 @@
       "title": "Paso 1 - Informacion de Docker",
       "text": "step1.md"
     }],
+    "steps": [{
+      "title": "Paso 2 - Comandos Basicos",
+      "text": "step2.md"
+    }],
+    "steps": [{
+      "title": "Paso 3 - Imagenes y contenedores",
+      "text": "step1.md"
+    }],
+  "steps": [{
+      "title": "Paso 4 - Redes",
+      "text": "step1.md"
+    }],
+   "steps": [{
+      "title": "Paso 5 - Volumenes",
+      "text": "step1.md"
+    }],
+
     "intro": {
       "text": "intro.md",
       "credits": ""
