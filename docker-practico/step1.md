@@ -1,7 +1,7 @@
-This is your first step.
+Este es el primer paso.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Vamos a ejecutar el comando **docker info** para visualizar información acerca del servicio docker
 
-`echo 'Hello World'`{{execute}}
+`docker info`{{execute}}

@@ -1,10 +1,3 @@
-# Interactive Katacoda Scenarios
+## Pincelazos a Docker, Linux, K8s, y mas
 
-[![](http://shields.katacoda.com/katacoda/kdetony/count.svg)](https://www.katacoda.com/kdetony "Get your profile on Katacoda.com")
-
-Visit https://www.katacoda.com/kdetony to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+Katacodes para dar a conocer el uso de cada tecnologia en particular, con ejemplos sencillos de entender.
