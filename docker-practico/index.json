@@ -16,11 +16,14 @@
       "text": "finish.md"
     }
   },
+"files": [ 
+     "Dockerfile"
+   ],
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nIniciando `docker`   \u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nIniciando `docker` \u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "docker"
   }
 }
