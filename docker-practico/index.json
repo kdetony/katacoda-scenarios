@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Docker Basico",
+  "description": "Primera Parte",
   "difficulty": "Basic",
-  "time": "2 minutes",
+  "time": "60 minutos",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Paso 1 - Informacion de Docker",
       "text": "step1.md"
     }],
     "intro": {
