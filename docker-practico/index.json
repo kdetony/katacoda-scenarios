@@ -38,9 +38,9 @@
      "Dockerfile"
    ],
   "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nIniciando `docker` \u001b[m\r\n"
-    "dashboards": [{"name": "Display 80", "port": 80}] 	    
+     "uilayout": "editor-terminal",
+     "showdashboard": true,
+     "dashboards": [{"name": "Display 80", "port": 80}]	  
   },
   "backend": {
     "imageid": "docker"
