@@ -14,15 +14,15 @@
     }],
     "steps": [{
       "title": "Paso 3 - Imagenes y contenedores",
-      "text": "step1.md"
+      "text": "step3.md"
     }],
   "steps": [{
       "title": "Paso 4 - Redes",
-      "text": "step1.md"
+      "text": "step4.md"
     }],
    "steps": [{
       "title": "Paso 5 - Volumenes",
-      "text": "step1.md"
+      "text": "step5.md"
     }],
 
     "intro": {
