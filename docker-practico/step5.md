@@ -12,13 +12,13 @@ pueden ser:
 
 Para asociarlo a un contenedor: 
 
-docker run -dit -v VG1:/usr/local/apache2/htdocs/ httpd
+``docker run -dit -v VG1:/usr/local/apache2/htdocs/ httpd``{{execute}}
 
 - Volume Bind: es una manera de "asociar" una carpeta del Host y mapearla como una carpeta dentro de un contenedor.
 
 Para crear un volume de este tipo ejecutaremos: 
 
-``docker run -dit -v /tmp/webserver:/usr/local/apache2/htdocs/ httpd``{{execute}}
+``docker run -rm -dit -v /tmp/webserver:/usr/local/apache2/htdocs/ httpd``{{execute}}
 
 
 - TMPFS: (temporal file system) es una manera de montar carpetas temporales en un contenedor. Usan la RAM del Host y su contenido desaparecerá al parar el contenedor.

@@ -1,29 +1,30 @@
 {
   "title": "Docker Basico",
-  "description": "Introduccion a docker, imagenes, redes y volumenes",
+  "description": "Introduccion a imagenes, contenedores, redes y volumenes",
   "difficulty": "Basic",
   "time": "60 minutos",
   "details": {
     "steps": [{
       "title": "Paso 1 - Informacion de Docker",
       "text": "step1.md"
-    }],
-    "steps": [{
+    },
+    "steps": {
       "title": "Paso 2 - Comandos Basicos",
       "text": "step2.md"
-    }],
-    "steps": [{
+    },
+    "steps": {
       "title": "Paso 3 - Imagenes y contenedores",
       "text": "step3.md"
-    }],
-  "steps": [{
+    },
+  "steps":{
       "title": "Paso 4 - Redes",
       "text": "step4.md"
-    }],
-   "steps": [{
+    },
+   "steps": {
       "title": "Paso 5 - Volumenes",
       "text": "step5.md"
-    }],
+    }
+  ],
 
     "intro": {
       "text": "intro.md",
@@ -33,7 +34,7 @@
       "text": "finish.md"
     }
   },
-"files": [ 
+  "files": [ 
      "Dockerfile"
    ],
   "environment": {
