@@ -1,4 +1,5 @@
-# Bienvenidos al Primer Capitulo de Docker!
+Bienvenidos al Primer Capitulo de Docker!
+-------
 
 ### Veremos conceptos sobre:
 - Imagenes 

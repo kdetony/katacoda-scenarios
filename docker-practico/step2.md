@@ -1,5 +1,5 @@
-Este es el Segundo Paso.
-
+Este es el Segundo Paso - Imagenes.
+--------
 ## Task
 
 Vamos a buscar imagenes, para ellos usamos el siguiente comando  **docker search IMAGE** por ejemplo:
